@@ -1,203 +1,148 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,50:1e3a8a,100:38bdf8&text=Mohammad%20Mosayebi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20|%20XR%20Researcher%20|%20Future%20Software%20Engineer&descAlignY=58"/>
+# ⚡ MOHAMMAD MOSAYEBI
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile;Computer+Engineering+Student+@+IUT;XR+Industry+4.0+Core+Member;Passionate+about+AI+%7C+Networks+%7C+Software;Building+Projects+Every+Day;Never+Stop+Learning+%F0%9F%9A%80"/>
+### Computer Engineering Student @ IUT
+
+### XR • AI • Networks • Cyber Security
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=Computer+Engineering+Student;XR+Industry+4.0+Core+Member;Passionate+About+AI;Passionate+About+Networks;Passionate+About+Cyber+Security;Building+Real+Projects;Never+Stop+Learning"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 🖥️ SYSTEM STATUS
 
-```cpp
-class MohammadMosayebi
-{
-public:
+```bash
+> whoami
 
-    string university = "Isfahan University of Technology";
+Mohammad Mosayebi
 
-    string major = "Computer Engineering";
+> university
 
-    string role = "XR Industry 4.0 Core Member";
+Isfahan University of Technology
 
-    vector<string> interests =
-    {
-        "Artificial Intelligence",
-        "Computer Networks",
-        "XR Technologies",
-        "Cyber Security",
-        "Software Engineering"
-    };
+> role
 
-    string mission =
-        "Learn, Build, Improve, Repeat";
+XR Industry 4.0 Core Member
 
-    string motto =
-        "Small progress is still progress";
-};
+> current_state
+
+Learning
+Building
+Improving
+
+> interests
+
+Artificial Intelligence
+Computer Networks
+Cyber Security
+XR Technologies
+Software Engineering
 ```
 
 ---
 
-# 🚀 Current Focus
-
-```yaml
-Learning:
-  - Advanced C++
-  - Artificial Intelligence
-  - Computer Networks
-  - XR Development
-
-Building:
-  - Software Projects
-  - Open Source Contributions
-  - Practical Engineering Skills
-
-Goal:
-  Become a high-impact Computer Engineer
-```
-
----
-
-# 🛠 Tech Stack
+# ⚙️ TECH STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,git,github,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode"/>
 
 </div>
 
 ---
 
-# 🔥 Featured Projects
+# 🚀 FEATURED PROJECTS
 
 ### 🚗 Car Rental System
-Vehicle reservation and management platform developed with C++.
+
+Vehicle reservation and management platform developed using C++.
 
 ### 🎓 UniPlane
-Student course selection and weekly scheduling system.
+
+Student course scheduling and management system written in C.
 
 ### 🎵 JukeBox
-Music player with online music sharing capabilities.
 
-### 🎮 Counter Strike Simulation
-Implementation of Counter Strike game logic using C++.
+Music player with online music sharing capability.
 
----
+### 🎮 Counter Strike Logic
 
-# 🌐 Interests
-
-<div align="center">
-
-🧠 Artificial Intelligence
-
-🌍 Computer Networks
-
-🥽 XR & Industry 4.0
-
-🔐 Cyber Security
-
-⚙️ Software Engineering
-
-</div>
+Implementation of Counter Strike game mechanics using C++.
 
 ---
 
-# 🏆 Achievements
+# 🏆 ACHIEVEMENTS
 
 🥉 Third Place — Eligma Programming Competition
 
-🏴 Participant — ACM Programming Competitions
+🏴 ACM Programming Competitions
 
-🏴 Participant — CTF Cyber Security Challenges
-
-🎓 Computer Engineering Student @ IUT
+🏴 CTF Cyber Security Challenges
 
 🥽 XR Industry 4.0 Core Member
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mamad-MD&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mamad-MD&show_icons=true&theme=chartreuse-dark&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamad-MD&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamad-MD&layout=compact&theme=chartreuse-dark"/>
 
 </div>
 
-<div align="center">
-
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mamad-MD&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📈 Activity Graph
+<br>
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mamad-MD&theme=tokyo-night"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mamad-MD&theme=chartreuse-dark"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# 🎯 CURRENT MISSION
 
-<div align="center">
+```yaml
+Learn:
+  - Advanced C++
+  - Artificial Intelligence
+  - Computer Networks
+  - XR Technologies
 
-<img src="https://raw.githubusercontent.com/Mamad-MD/Mamad-MD/output/github-contribution-grid-snake-dark.svg"/>
+Build:
+  - Real World Projects
+  - Open Source Software
 
-</div>
-
----
-
-# 💻 Daily Workflow
-
-```text
-Wake Up
-   ↓
-Learn Something New
-   ↓
-Write Code
-   ↓
-Break Things
-   ↓
-Fix Things
-   ↓
-Learn Even More
-   ↓
-Repeat
+Goal:
+  Become a High Impact Computer Engineer
 ```
 
 ---
 
-# 🤝 Connect With Me
+# 📬 CONTACT
 
-<div align="center">
+📧 m.mosayebi@ec.iut.ac.ir
 
-<a href="mailto:m.mosayebi@ec.iut.ac.ir">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Mamad-MD">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+🐙 https://github.com/Mamad-MD
 
 ---
 
 <div align="center">
 
-### 🚀 Progress Every Day
-
-<img src="https://komarev.com/ghpvc/?username=Mamad-MD&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+## ⚡ SMALL PROGRESS IS STILL PROGRESS ⚡
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0f172a,50:1e3a8a,100:38bdf8"/>
