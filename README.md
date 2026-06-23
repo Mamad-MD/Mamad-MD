@@ -62,7 +62,7 @@ Software Engineering
 
 <img src="https://skillicons.dev/icons?i=git,github,powershell,linux,vscode,qt,anaconda,clion,pycharm,visualstudio"/>
 
-<img src="https://skillicons.dev/icons?i=discord,ae,au,ps"/>
+<img src="https://skillicons.dev/icons?i=sublime,discord,ae,au,ps"/>
 
 </div>
 
