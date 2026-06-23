@@ -171,6 +171,10 @@ Goal:
 
 ---
 
+<a href="https://github.com/Mamad-MD/Car-Rental-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mamad-MD&repo=Car-Rental-System&theme=chartreuse-dark"/>
+</a>
+
 <div align="center">
 
 ## ⚡ SMALL PROGRESS IS STILL PROGRESS ⚡
