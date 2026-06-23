@@ -98,6 +98,12 @@ Implementation of Counter Strike game mechanics using C++.
 
 ---
 
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mamad-MD&theme=matrix&no-frame=true&row=1"/>
+
+</div>
+
 # 📊 GITHUB ANALYTICS
 
 <div align="center">
@@ -118,6 +124,20 @@ Implementation of Counter Strike game mechanics using C++.
 
 ---
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mamad-MD&show_icons=true&theme=chartreuse-dark&count_private=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamad-MD&layout=compact&theme=chartreuse-dark"/>
+
+</div>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mamad-MD&theme=chartreuse-dark"/>
+
+</div>
+
 # 🎯 CURRENT MISSION
 
 ```yaml
@@ -136,6 +156,12 @@ Goal:
 ```
 
 ---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Mamad-MD&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge"/>
+
+</div>
 
 # 📬 CONTACT
 
