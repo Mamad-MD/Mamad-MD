@@ -48,24 +48,24 @@ Software Engineering
 
 # 🚀 FEATURED PROJECTS
 <div align="center">
-<a href="https://github.com/Mamad-MD/UniPlane">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Mamad-MD&repo=UniPlane&theme=chartreuse-dark"/>
-</a>
-<a href="https://github.com/Mamad-MD/DB-Project-iut">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Mamad-MD&repo=DB-Project-iut&theme=chartreuse-dark"/>
-</a>
-<a href="https://github.com/Mamad-MD/Car-Rental-System">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Mamad-MD&repo=Car-Rental-System&theme=chartreuse-dark"/>
-</a>
-<a href="https://github.com/Mamad-MD/JukeBox-MusicPlayer">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Mamad-MD&repo=JukeBox-MusicPlayer&theme=chartreuse-dark"/>
-</a>
-<a href="https://github.com/Mamad-MD/Counter1.7-AP-Project">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Mamad-MD&repo=Counter1.7-AP-Project&theme=chartreuse-dark"/>
-</a>
-<a href="https://github.com/Mamad-MD/LoginPage-Qt-Practic">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Mamad-MD&repo=LoginPage-Qt-Practic&theme=chartreuse-dark"/>
-</a>
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/Mamad-MD/stationery-store-manager"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=Mamad-MD&repo=stationery-store-manager&theme=chartreuse-dark"/></a></td>
+<td width="50%"><a href="https://github.com/Mamad-MD/UniPlane"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=Mamad-MD&repo=UniPlane&theme=chartreuse-dark"/></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/Mamad-MD/DB-Project-iut"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=Mamad-MD&repo=DB-Project-iut&theme=chartreuse-dark"/></a></td>
+<td width="50%"><a href="https://github.com/Mamad-MD/Car-Rental-System"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=Mamad-MD&repo=Car-Rental-System&theme=chartreuse-dark"/></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/Mamad-MD/JukeBox-MusicPlayer"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=Mamad-MD&repo=JukeBox-MusicPlayer&theme=chartreuse-dark"/></a></td>
+<td width="50%"><a href="https://github.com/Mamad-MD/Counter1.7-AP-Project"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=Mamad-MD&repo=Counter1.7-AP-Project&theme=chartreuse-dark"/></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/Mamad-MD/LoginPage-Qt-Practic"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=Mamad-MD&repo=LoginPage-Qt-Practic&theme=chartreuse-dark"/></a></td>
+<td width="50%"></td>
+</tr>
+</table>
 </div>
 
 ---
