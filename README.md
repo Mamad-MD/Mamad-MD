@@ -3,6 +3,7 @@
 # ⚡ MOHAMMAD MOSAYEBI
 ### Computer Engineering Student @ IUT
 ### XR • AI • Networks • Cyber Security
+### Computer Vision • Image Processing 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=Computer+Engineering+Student;XR+Industry+4.0+Core+Member;Passionate+About+AI;Passionate+About+Networks;Passionate+About+Cyber+Security;Building+Real+Projects;Never+Stop+Learning"/>
 </div>
 
@@ -28,9 +29,11 @@ Building
 Improving
 > interests
 Artificial Intelligence
+Computer Vision
 Computer Networks
 Cyber Security
 XR Technologies
+Image Processing
 Software Engineering
 ```
 
@@ -43,6 +46,17 @@ Software Engineering
 <img src="https://skillicons.dev/icons?i=git,github,powershell,linux,vscode,qt,anaconda"/>
 <img src="https://skillicons.dev/icons?i=clion,pycharm,visualstudio,discord,ae,au,ps"/>
 </div>
+
+---
+
+# 👁️ CURRENTLY EXPLORING
+
+- Computer Vision
+- Image Processing
+- Object Detection
+- Eye Tracking
+- Deep Learning
+- Neural Networks
 
 ---
 
@@ -98,6 +112,19 @@ Software Engineering
 
 ---
 
+# 🔬 COMPUTER VISION PRACTICE
+
+### Real-Time Object Detection
+Implemented and tested YOLO with the COCO dataset for real-time object detection.
+
+---
+
+# 📚 CURRENT STUDY
+
+Currently studying topics related to Eye Tracking and Computer Vision through research papers and technical documentation.
+
+---
+
 # 🎯 CURRENT MISSION
 ```yaml
 Learn:
@@ -105,6 +132,8 @@ Learn:
   - Artificial Intelligence
   - Computer Networks
   - XR Technologies
+  - Computer Vision
+  - Image Processing
 Build:
   - Real World Projects
   - Open Source Software
