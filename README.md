@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 # ⚡ MOHAMMAD MOSAYEBI
 
@@ -63,13 +63,13 @@ I enjoy learning by building, experimenting, and solving engineering problems.
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,html,css" />
 
-### AI & Computer Vision
+### XR Development
 
-**OpenCV · PyTorch · YOLO · Object Detection · Image Processing · Deep Learning**
+<img src="https://skillicons.dev/icons?i=unity,blender" />
 
-### XR & Development Tools
+### Other Tools & Specialties
 
-<img src="https://skillicons.dev/icons?i=unity,blender,git,github,linux,powershell,vscode,visualstudio" />
+<img src="https://skillicons.dev/icons?i=git,github,powershell,linux,vscode,visualstudio,qt,anaconda,clion,pycharm,sublime,discord,ae,au,ps" />
 
 </div>
 
@@ -90,76 +90,97 @@ I enjoy learning by building, experimenting, and solving engineering problems.
 
 ## 🚀 FEATURED PROJECTS
 
-<div align="center">
-
 ### 🧠 AI & COMPUTER VISION
 
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
 <a href="https://github.com/Mamad-MD/Red-Balloon-Tracker">
-  <img width="85%" src="https://github-stats-extended.vercel.app/api/pin/?username=Mamad-MD&repo=Red-Balloon-Tracker&theme=chartreuse-dark"/>
+<img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=Mamad-MD&repo=Red-Balloon-Tracker&theme=chartreuse-dark"/>
 </a>
 
 **Red-Balloon-Tracker**
 
 Long-range small-object detection and tracking using YOLO26s-p2, OpenCV, and overlapping image tiling.
 
-Current validation results: **Precision 0.964 · Recall 0.974 · mAP@50 0.985 · mAP@50–95 0.851**.
+**Validation:** Precision 0.964 · Recall 0.974 · mAP@50 0.985 · mAP@50–95 0.851
 
-The current benchmark runs at approximately **5.5 FPS**, below the 12 FPS target. Results are based on the available validation data; real-camera field performance has not yet been established.
-
----
-
+<sub>Current benchmark: ~5.5 FPS (target: 12 FPS). Real-camera field performance has not yet been established.</sub>
+</td>
+<td width="50%" valign="top" align="center">
 <a href="https://github.com/Mamad-MD/Align">
-  <img width="85%" src="https://github-stats-extended.vercel.app/api/pin/?username=Mamad-MD&repo=Align&theme=chartreuse-dark"/>
+<img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=Mamad-MD&repo=Align&theme=chartreuse-dark"/>
 </a>
 
 **Align — Lumbar Spine Surgical Navigation**
 
-A MedTech R&D prototype focused on spatial tracking, software instrument calibration, reference registration, and deformation-aware navigation. Tested in a laboratory environment using a 2D phantom; **not clinically validated**.
+A MedTech R&D prototype focused on spatial tracking, software instrument calibration, reference registration, and deformation-aware navigation.
 
----
+<sub>Tested in a laboratory environment using a 2D phantom; not clinically validated.</sub>
+</td>
+</tr>
+</table>
+</div>
 
 ### 🥽 EXTENDED REALITY & XR
 
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
 <a href="https://github.com/VRAM-Team/Med-Assemble_Showcase">
-  <img width="85%" src="https://github-stats-extended.vercel.app/api/pin/?username=VRAM-Team&repo=Med-Assemble_Showcase&theme=chartreuse-dark"/>
+<img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=VRAM-Team&repo=Med-Assemble_Showcase&theme=chartreuse-dark"/>
 </a>
 
 **Med-Assemble | VR Hospital Bed Assembly Simulator**
 
-A team project developed with Unity and Meta Quest for interactive hospital-bed assembly training. Includes **6 phases and 52 steps**, with Persian text and voice guidance, assembly interactions, and progress evaluation.
+A team project developed with Unity and Meta Quest for interactive hospital-bed assembly training.
 
----
-
+<sub>6 phases and 52 steps, with Persian text and voice guidance, assembly interactions, and progress evaluation.</sub>
+</td>
+<td width="50%" valign="top" align="center">
 <a href="https://github.com/Mamad-MD/Space-Scraper">
-  <img width="85%" src="https://github-stats-extended.vercel.app/api/pin/?username=Mamad-MD&repo=Space-Scraper&theme=chartreuse-dark"/>
+<img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=Mamad-MD&repo=Space-Scraper&theme=chartreuse-dark"/>
 </a>
 
 **Space Scraper**
 
-A Unity VR game set in a sci-fi space station, featuring object interaction and rock breaking with a laser pistol. Built with XR Interaction Toolkit and OpenXR.
+A Unity VR game set in a sci-fi space station, featuring object interaction and rock breaking with a laser pistol.
 
----
+<sub>Built with XR Interaction Toolkit and OpenXR.</sub>
+</td>
+</tr>
+</table>
+</div>
 
 ### 💻 SOFTWARE DEVELOPMENT
 
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
 <a href="https://github.com/Mamad-MD/XR-Aquarium">
-  <img width="85%" src="https://github-stats-extended.vercel.app/api/pin/?username=Mamad-MD&repo=XR-Aquarium&theme=chartreuse-dark"/>
+<img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=Mamad-MD&repo=XR-Aquarium&theme=chartreuse-dark"/>
 </a>
 
 **XR Aquarium**
 
-A bilingual web platform for managing XR events, participants, projects, teams, mentors, schedules, learning resources, and laboratory equipment. Built with Next.js, React, TypeScript, and Prisma.
+A bilingual web platform for managing XR events, participants, projects, teams, mentors, schedules, learning resources, and laboratory equipment.
 
----
-
+<sub>Built with Next.js, React, TypeScript, and Prisma.</sub>
+</td>
+<td width="50%" valign="top" align="center">
 <a href="https://github.com/Mamad-MD/stationery-store-manager">
-  <img width="85%" src="https://github-stats-extended.vercel.app/api/pin/?username=Mamad-MD&repo=stationery-store-manager&theme=chartreuse-dark"/>
+<img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=Mamad-MD&repo=stationery-store-manager&theme=chartreuse-dark"/>
 </a>
 
 **Stationery Store Manager**
 
 A full-stack POS and inventory management system for stationery stores, featuring barcode scanning, sales tracking, reporting, and offline-first storage.
-
+</td>
+</tr>
+</table>
 </div>
 
 ### Other Projects
